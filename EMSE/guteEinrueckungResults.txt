@@ -1,0 +1,24 @@
+
+Experiment 5 of 5 Code with Indentation you spent 05:06 minutes.
+Your result 24 is false
+ The correct result is 138
+
+Experiment 5 of 5 Code with Indentation you spent 05:47 minutes.
+Your result 142 is false
+ The correct result is 182
+
+Experiment 2 of 2 Code without Indentation you spent 01:11 minutes.
+Your result 2 is false
+ The correct result is 8
+
+Experiment 2 of 2 Code without Indentation you spent 00:05 minutes.
+Your result 2 is false
+ The correct result is 122
+
+Experiment 1 of 2 Code with Indentation you spent 00:01 minutes.
+Your result 3 is false
+ The correct result is -6
+
+Experiment 2 of 2 Code with Indentation you spent 00:01 minutes.
+Your result 2 is false
+ The correct result is 234
